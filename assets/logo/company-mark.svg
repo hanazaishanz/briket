@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Tanda kotak biru mengikuti placeholder logo pada kedua JPEG referensi. -->
+  <defs><linearGradient id="blue-mark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a4bacd"/><stop offset="1" stop-color="#89a6bf"/></linearGradient></defs>
+  <path fill="url(#blue-mark)" d="M0 0h32v32H0z"/>
+</svg>
